@@ -24,5 +24,5 @@
 <code><img height="20" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-violet?style=flat-circle&logo=javascript"></code>
 <code><img height="20" alt="HTML5" src="https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5"></code>    
 
-<a href="https://github.com/w0nderland05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=w0nderland05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="w0nderland05's github stats" /><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
+<a href="https://github.com/w0nderland05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=w0nderland05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="w0nderland05's github stats" />
 

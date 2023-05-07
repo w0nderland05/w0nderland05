@@ -24,5 +24,5 @@
 <code><img height="20" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-violet?style=flat-circle&logo=javascript"></code>
 <code><img height="20" alt="HTML5" src="https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5"></code>    
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=w0nderland05&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="w0nderland05 github stats" /> 
 

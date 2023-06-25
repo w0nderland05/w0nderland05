@@ -1,6 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20&fontSize=90)
 # :star: about me
+
 * :hand: Hi Im a Junior Developer **Sumin** 
 * :email: 05wonderland14@gmail.com
+  
 
 
 
@@ -15,12 +18,12 @@
 ![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 
 
-> Status
+> usedLanguage
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w0nderland05&show_icons=true&locale=en&layout=compact" alt="w0nderland05" /></p>
 <p align="left">
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w0nderland05&show_icons=true&locale=en" alt="w0nderland05" /></p>
-<p align="left">
-</p>
+
+![김뚜루's GitHub stats](https://github-readme-stats.vercel.app/api?username=w0nderland05&show_icons=true&theme=dracula)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w0nderland05&" alt="w0nderland05" /></p>
 

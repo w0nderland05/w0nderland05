@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 
 
-> usedLanguage
+> status
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w0nderland05&show_icons=true&locale=en&layout=compact" alt="w0nderland05" /></p>
 <p align="left">
 </p>
